@@ -1,2 +1,2 @@
 # skillgapai
-skillgapai - career skill gap analysus and learning roadmap
+skillgapai - career skill gap analysis and learning roadmap
